@@ -33,8 +33,7 @@ Didesain untuk keperluan testnet & farming airdrop dengan dukungan multi-wallet 
 
    Buat file `.env`dan isi seperti berikut:
    ```bash
-   PRIVATE_KEY_1=your_private_key_here
-   PRIVATE_KEY_2=another_private_key_if_needed
+   PRIVATE_KEY=your_private_key_here
 
 5. **⚙️ Menjalankan Bot:**
    ```
